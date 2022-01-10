@@ -27,7 +27,7 @@ if [ $a == y ]
 then
 hash-identifier
 else
-figlet -f slant " thank you " | lolcat
+figlet -f slant " exiting .. " | lolcat
 fi
 echo "[*] Do you want to decypt the password ('y/n')[*]"
 read b
