@@ -1,4 +1,4 @@
-# mr.generator
+# Secure-Vault
 This script is used for genrating encrypted passwords &amp; decrypt the passwords,identifes the hash.
 
 
